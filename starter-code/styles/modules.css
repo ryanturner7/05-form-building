@@ -54,7 +54,10 @@
 
 /*TODO: Add CSS for the "article-export" portion of our new page*/
 
-
+#export-field {
+  font-weight: bold;
+  display: inline-block;
+}
 @media only screen and (min-width: 640px) {
   .icon-menu {
     display: none;
